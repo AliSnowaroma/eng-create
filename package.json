@@ -7,6 +7,11 @@
     "dev": "./scripts/index.js init",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files":[
+    "scripts",
+    "src",
+    "test"
+  ],
   "bin": {
     "eng-scripts": "scripts/index.js"
   },
