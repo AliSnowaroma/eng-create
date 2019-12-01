@@ -1,0 +1,39 @@
+{
+  "name": "eng-create",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "./scripts/index.js init",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "eng-scripts": "scripts/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliSnowaroma/eng-create.git"
+  },
+  "keywords": [
+    "node",
+    "engineering",
+    "automation"
+  ],
+  "author": "qd361",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliSnowaroma/eng-create/issues"
+  },
+  "homepage": "https://github.com/AliSnowaroma/eng-create#readme",
+  "dependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/plugin-proposal-class-properties": "^7.7.4",
+    "@babel/plugin-proposal-decorators": "^7.7.4",
+    "@babel/register": "^7.7.4",
+    "chalk": "^3.0.0",
+    "figlet": "^1.2.4",
+    "glob": "^7.1.6",
+    "inquirer": "^7.0.0",
+    "ora": "^4.0.3"
+  }
+}
