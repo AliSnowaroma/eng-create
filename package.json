@@ -1,7 +1,7 @@
 {
   "name": "eng-scripts",
   "version": "1.0.2-0",
-  "description": "",
+  "description": "前端工程创建集成工具",
   "main": "index.js",
   "scripts": {
     "dev": "./scripts/index.js init",
