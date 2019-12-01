@@ -1,6 +1,6 @@
 {
   "name": "eng-scripts",
-  "version": "1.0.3-0",
+  "version": "1.0.3",
   "description": "前端工程创建集成工具",
   "main": "index.js",
   "scripts": {
